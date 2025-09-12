@@ -2,6 +2,7 @@
   "name": "sales-revenue-dashboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://abhijeetk4118.github.io/KROWD-Project-Submission",
   "dependencies": {
     "@types/node": "^16.18.0",
     "autoprefixer": "^10.4.0",
@@ -16,7 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,6 +42,7 @@
   "devDependencies": {
     "@types/react": "^19.1.12",
     "@types/react-dom": "^19.1.9",
-    "typescript": "^5.9.2"
+    "gh-pages": "^6.3.0",
+    "typescript": "^4.9.5"
   }
 }
