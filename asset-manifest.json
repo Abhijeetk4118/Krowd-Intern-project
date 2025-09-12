@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KROWD-Project-Submission/static/css/main.0900f2fd.css",
+    "main.js": "/KROWD-Project-Submission/static/js/main.f1030fe4.js",
+    "index.html": "/KROWD-Project-Submission/index.html",
+    "main.0900f2fd.css.map": "/KROWD-Project-Submission/static/css/main.0900f2fd.css.map",
+    "main.f1030fe4.js.map": "/KROWD-Project-Submission/static/js/main.f1030fe4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0900f2fd.css",
+    "static/js/main.f1030fe4.js"
+  ]
+}
