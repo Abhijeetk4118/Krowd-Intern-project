@@ -1,0 +1,533 @@
+[
+  {
+    "date": "2025-01-01",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Laptop",
+    "units": 5,
+    "revenue": 2500,
+    "target": 3000
+  },
+  {
+    "date": "2025-01-02",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Desktop",
+    "units": 3,
+    "revenue": 1800,
+    "target": 2000
+  },
+  {
+    "date": "2025-01-03",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Tablet",
+    "units": 8,
+    "revenue": 2400,
+    "target": 2500
+  },
+  {
+    "date": "2025-01-04",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Laptop",
+    "units": 12,
+    "revenue": 6000,
+    "target": 5500
+  },
+  {
+    "date": "2025-01-05",
+    "salesRep": "Eva Brown",
+    "client": "Innovation Co",
+    "product": "Monitor",
+    "units": 15,
+    "revenue": 3000,
+    "target": 3500
+  },
+  {
+    "date": "2025-01-06",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Desktop",
+    "units": 7,
+    "revenue": 4200,
+    "target": 4000
+  },
+  {
+    "date": "2025-01-07",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Tablet",
+    "units": 6,
+    "revenue": 1800,
+    "target": 2000
+  },
+  {
+    "date": "2025-01-08",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Laptop",
+    "units": 4,
+    "revenue": 2000,
+    "target": 2500
+  },
+  {
+    "date": "2025-01-09",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Monitor",
+    "units": 20,
+    "revenue": 4000,
+    "target": 4500
+  },
+  {
+    "date": "2025-01-10",
+    "salesRep": "Eva Brown",
+    "client": "Innovation Co",
+    "product": "Desktop",
+    "units": 9,
+    "revenue": 5400,
+    "target": 5000
+  },
+  {
+    "date": "2025-01-11",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Tablet",
+    "units": 10,
+    "revenue": 3000,
+    "target": 3200
+  },
+  {
+    "date": "2025-01-12",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Laptop",
+    "units": 6,
+    "revenue": 3000,
+    "target": 3500
+  },
+  {
+    "date": "2025-01-13",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Monitor",
+    "units": 12,
+    "revenue": 2400,
+    "target": 2800
+  },
+  {
+    "date": "2025-01-14",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Desktop",
+    "units": 8,
+    "revenue": 4800,
+    "target": 5000
+  },
+  {
+    "date": "2025-01-15",
+    "salesRep": "Eva Brown",
+    "client": "Innovation Co",
+    "product": "Laptop",
+    "units": 7,
+    "revenue": 3500,
+    "target": 4000
+  },
+  {
+    "date": "2025-01-16",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Monitor",
+    "units": 18,
+    "revenue": 3600,
+    "target": 4000
+  },
+  {
+    "date": "2025-01-17",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Tablet",
+    "units": 14,
+    "revenue": 4200,
+    "target": 4500
+  },
+  {
+    "date": "2025-01-18",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Desktop",
+    "units": 11,
+    "revenue": 6600,
+    "target": 6000
+  },
+  {
+    "date": "2025-01-19",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Laptop",
+    "units": 9,
+    "revenue": 4500,
+    "target": 5000
+  },
+  {
+    "date": "2025-01-20",
+    "salesRep": "Eva Brown",
+    "client": "Innovation Co",
+    "product": "Tablet",
+    "units": 13,
+    "revenue": 3900,
+    "target": 4200
+  },
+  {
+    "date": "2025-01-21",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Monitor",
+    "units": 16,
+    "revenue": 3200,
+    "target": 3500
+  },
+  {
+    "date": "2025-01-22",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Laptop",
+    "units": 8,
+    "revenue": 4000,
+    "target": 4500
+  },
+  {
+    "date": "2025-01-23",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Desktop",
+    "units": 6,
+    "revenue": 3600,
+    "target": 4000
+  },
+  {
+    "date": "2025-01-24",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Tablet",
+    "units": 15,
+    "revenue": 4500,
+    "target": 5000
+  },
+  {
+    "date": "2025-01-25",
+    "salesRep": "Eva Brown",
+    "client": "Innovation Co",
+    "product": "Monitor",
+    "units": 22,
+    "revenue": 4400,
+    "target": 5000
+  },
+  {
+    "date": "2025-01-26",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Laptop",
+    "units": 10,
+    "revenue": 5000,
+    "target": 5500
+  },
+  {
+    "date": "2025-01-27",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Desktop",
+    "units": 7,
+    "revenue": 4200,
+    "target": 4500
+  },
+  {
+    "date": "2025-01-28",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Tablet",
+    "units": 12,
+    "revenue": 3600,
+    "target": 4000
+  },
+  {
+    "date": "2025-01-29",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Monitor",
+    "units": 19,
+    "revenue": 3800,
+    "target": 4200
+  },
+  {
+    "date": "2025-01-30",
+    "salesRep": "Eva Brown",
+    "client": "Innovation Co",
+    "product": "Laptop",
+    "units": 11,
+    "revenue": 5500,
+    "target": 6000
+  },
+  {
+    "date": "2025-01-31",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Desktop",
+    "units": 9,
+    "revenue": 5400,
+    "target": 5000
+  },
+  {
+    "date": "2025-02-01",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Laptop",
+    "units": 8,
+    "revenue": 4000,
+    "target": 4500
+  },
+  {
+    "date": "2025-02-02",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Monitor",
+    "units": 14,
+    "revenue": 2800,
+    "target": 3200
+  },
+  {
+    "date": "2025-02-03",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Tablet",
+    "units": 16,
+    "revenue": 4800,
+    "target": 5000
+  },
+  {
+    "date": "2025-02-04",
+    "salesRep": "Eva Brown",
+    "client": "Innovation Co",
+    "product": "Desktop",
+    "units": 12,
+    "revenue": 7200,
+    "target": 7000
+  },
+  {
+    "date": "2025-02-05",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Laptop",
+    "units": 13,
+    "revenue": 6500,
+    "target": 7000
+  },
+  {
+    "date": "2025-02-06",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Monitor",
+    "units": 17,
+    "revenue": 3400,
+    "target": 3800
+  },
+  {
+    "date": "2025-02-07",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Tablet",
+    "units": 11,
+    "revenue": 3300,
+    "target": 3600
+  },
+  {
+    "date": "2025-02-08",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Desktop",
+    "units": 15,
+    "revenue": 9000,
+    "target": 8500
+  },
+  {
+    "date": "2025-02-09",
+    "salesRep": "Eva Brown",
+    "client": "Innovation Co",
+    "product": "Laptop",
+    "units": 14,
+    "revenue": 7000,
+    "target": 7500
+  },
+  {
+    "date": "2025-02-10",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Monitor",
+    "units": 20,
+    "revenue": 4000,
+    "target": 4500
+  },
+  {
+    "date": "2025-02-11",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Tablet",
+    "units": 18,
+    "revenue": 5400,
+    "target": 5800
+  },
+  {
+    "date": "2025-02-12",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Desktop",
+    "units": 10,
+    "revenue": 6000,
+    "target": 6500
+  },
+  {
+    "date": "2025-02-13",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Laptop",
+    "units": 16,
+    "revenue": 8000,
+    "target": 8500
+  },
+  {
+    "date": "2025-02-14",
+    "salesRep": "Eva Brown",
+    "client": "Innovation Co",
+    "product": "Monitor",
+    "units": 13,
+    "revenue": 2600,
+    "target": 3000
+  },
+  {
+    "date": "2025-02-15",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Tablet",
+    "units": 19,
+    "revenue": 5700,
+    "target": 6000
+  },
+  {
+    "date": "2025-02-16",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Desktop",
+    "units": 11,
+    "revenue": 6600,
+    "target": 7000
+  },
+  {
+    "date": "2025-02-17",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Laptop",
+    "units": 12,
+    "revenue": 6000,
+    "target": 6500
+  },
+  {
+    "date": "2025-02-18",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Monitor",
+    "units": 21,
+    "revenue": 4200,
+    "target": 4800
+  },
+  {
+    "date": "2025-02-19",
+    "salesRep": "Eva Brown",
+    "client": "Innovation Co",
+    "product": "Tablet",
+    "units": 17,
+    "revenue": 5100,
+    "target": 5500
+  },
+  {
+    "date": "2025-02-20",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Desktop",
+    "units": 13,
+    "revenue": 7800,
+    "target": 8000
+  },
+  {
+    "date": "2025-02-21",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Laptop",
+    "units": 15,
+    "revenue": 7500,
+    "target": 8000
+  },
+  {
+    "date": "2025-02-22",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Monitor",
+    "units": 18,
+    "revenue": 3600,
+    "target": 4000
+  },
+  {
+    "date": "2025-02-23",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Tablet",
+    "units": 14,
+    "revenue": 4200,
+    "target": 4500
+  },
+  {
+    "date": "2025-02-24",
+    "salesRep": "Eva Brown",
+    "client": "Innovation Co",
+    "product": "Desktop",
+    "units": 16,
+    "revenue": 9600,
+    "target": 9000
+  },
+  {
+    "date": "2025-02-25",
+    "salesRep": "Alice Johnson",
+    "client": "TechCorp Inc",
+    "product": "Laptop",
+    "units": 17,
+    "revenue": 8500,
+    "target": 9000
+  },
+  {
+    "date": "2025-02-26",
+    "salesRep": "Bob Smith",
+    "client": "Global Solutions",
+    "product": "Monitor",
+    "units": 19,
+    "revenue": 3800,
+    "target": 4200
+  },
+  {
+    "date": "2025-02-27",
+    "salesRep": "Carol Davis",
+    "client": "StartupXYZ",
+    "product": "Tablet",
+    "units": 20,
+    "revenue": 6000,
+    "target": 6500
+  },
+  {
+    "date": "2025-02-28",
+    "salesRep": "David Wilson",
+    "client": "Enterprise Ltd",
+    "product": "Desktop",
+    "units": 18,
+    "revenue": 10800,
+    "target": 10000
+  }
+]

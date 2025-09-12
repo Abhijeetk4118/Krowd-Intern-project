@@ -1,0 +1,304 @@
+{
+  "salesData": [
+    {
+      "id": 1,
+      "date": "2024-01-15",
+      "salesRep": "John Smith",
+      "client": "TechCorp Inc",
+      "product": "Software License",
+      "unitsSold": 50,
+      "revenue": 25000,
+      "target": 20000
+    },
+    {
+      "id": 2,
+      "date": "2024-01-16",
+      "salesRep": "Sarah Johnson",
+      "client": "Global Solutions",
+      "product": "Cloud Storage",
+      "unitsSold": 100,
+      "revenue": 15000,
+      "target": 18000
+    },
+    {
+      "id": 3,
+      "date": "2024-01-17",
+      "salesRep": "Mike Davis",
+      "client": "StartupXYZ",
+      "product": "API Access",
+      "unitsSold": 200,
+      "revenue": 10000,
+      "target": 12000
+    },
+    {
+      "id": 4,
+      "date": "2024-01-18",
+      "salesRep": "Emily Brown",
+      "client": "Enterprise Ltd",
+      "product": "Software License",
+      "unitsSold": 75,
+      "revenue": 37500,
+      "target": 30000
+    },
+    {
+      "id": 5,
+      "date": "2024-01-19",
+      "salesRep": "David Wilson",
+      "client": "Innovation Co",
+      "product": "Cloud Storage",
+      "unitsSold": 150,
+      "revenue": 22500,
+      "target": 20000
+    },
+    {
+      "id": 6,
+      "date": "2024-01-20",
+      "salesRep": "Lisa Anderson",
+      "client": "TechCorp Inc",
+      "product": "API Access",
+      "unitsSold": 300,
+      "revenue": 15000,
+      "target": 18000
+    },
+    {
+      "id": 7,
+      "date": "2024-01-21",
+      "salesRep": "John Smith",
+      "client": "Global Solutions",
+      "product": "Software License",
+      "unitsSold": 60,
+      "revenue": 30000,
+      "target": 25000
+    },
+    {
+      "id": 8,
+      "date": "2024-01-22",
+      "salesRep": "Sarah Johnson",
+      "client": "StartupXYZ",
+      "product": "Cloud Storage",
+      "unitsSold": 120,
+      "revenue": 18000,
+      "target": 15000
+    },
+    {
+      "id": 9,
+      "date": "2024-01-23",
+      "salesRep": "Mike Davis",
+      "client": "Enterprise Ltd",
+      "product": "API Access",
+      "unitsSold": 250,
+      "revenue": 12500,
+      "target": 15000
+    },
+    {
+      "id": 10,
+      "date": "2024-01-24",
+      "salesRep": "Emily Brown",
+      "client": "Innovation Co",
+      "product": "Software License",
+      "unitsSold": 80,
+      "revenue": 40000,
+      "target": 35000
+    },
+    {
+      "id": 11,
+      "date": "2024-01-25",
+      "salesRep": "David Wilson",
+      "client": "TechCorp Inc",
+      "product": "Cloud Storage",
+      "unitsSold": 180,
+      "revenue": 27000,
+      "target": 25000
+    },
+    {
+      "id": 12,
+      "date": "2024-01-26",
+      "salesRep": "Lisa Anderson",
+      "client": "Global Solutions",
+      "product": "API Access",
+      "unitsSold": 350,
+      "revenue": 17500,
+      "target": 20000
+    },
+    {
+      "id": 13,
+      "date": "2024-01-27",
+      "salesRep": "John Smith",
+      "client": "StartupXYZ",
+      "product": "Software License",
+      "unitsSold": 45,
+      "revenue": 22500,
+      "target": 20000
+    },
+    {
+      "id": 14,
+      "date": "2024-01-28",
+      "salesRep": "Sarah Johnson",
+      "client": "Enterprise Ltd",
+      "product": "Cloud Storage",
+      "unitsSold": 200,
+      "revenue": 30000,
+      "target": 28000
+    },
+    {
+      "id": 15,
+      "date": "2024-01-29",
+      "salesRep": "Mike Davis",
+      "client": "Innovation Co",
+      "product": "API Access",
+      "unitsSold": 400,
+      "revenue": 20000,
+      "target": 22000
+    },
+    {
+      "id": 16,
+      "date": "2024-01-30",
+      "salesRep": "Emily Brown",
+      "client": "TechCorp Inc",
+      "product": "Software License",
+      "unitsSold": 90,
+      "revenue": 45000,
+      "target": 40000
+    },
+    {
+      "id": 17,
+      "date": "2024-01-31",
+      "salesRep": "David Wilson",
+      "client": "Global Solutions",
+      "product": "Cloud Storage",
+      "unitsSold": 160,
+      "revenue": 24000,
+      "target": 22000
+    },
+    {
+      "id": 18,
+      "date": "2024-02-01",
+      "salesRep": "Lisa Anderson",
+      "client": "StartupXYZ",
+      "product": "API Access",
+      "unitsSold": 280,
+      "revenue": 14000,
+      "target": 16000
+    },
+    {
+      "id": 19,
+      "date": "2024-02-02",
+      "salesRep": "John Smith",
+      "client": "Enterprise Ltd",
+      "product": "Software License",
+      "unitsSold": 70,
+      "revenue": 35000,
+      "target": 30000
+    },
+    {
+      "id": 20,
+      "date": "2024-02-03",
+      "salesRep": "Sarah Johnson",
+      "client": "Innovation Co",
+      "product": "Cloud Storage",
+      "unitsSold": 140,
+      "revenue": 21000,
+      "target": 20000
+    },
+    {
+      "id": 21,
+      "date": "2024-02-04",
+      "salesRep": "Mike Davis",
+      "client": "TechCorp Inc",
+      "product": "API Access",
+      "unitsSold": 320,
+      "revenue": 16000,
+      "target": 18000
+    },
+    {
+      "id": 22,
+      "date": "2024-02-05",
+      "salesRep": "Emily Brown",
+      "client": "Global Solutions",
+      "product": "Software License",
+      "unitsSold": 55,
+      "revenue": 27500,
+      "target": 25000
+    },
+    {
+      "id": 23,
+      "date": "2024-02-06",
+      "salesRep": "David Wilson",
+      "client": "StartupXYZ",
+      "product": "Cloud Storage",
+      "unitsSold": 190,
+      "revenue": 28500,
+      "target": 26000
+    },
+    {
+      "id": 24,
+      "date": "2024-02-07",
+      "salesRep": "Lisa Anderson",
+      "client": "Enterprise Ltd",
+      "product": "API Access",
+      "unitsSold": 380,
+      "revenue": 19000,
+      "target": 20000
+    },
+    {
+      "id": 25,
+      "date": "2024-02-08",
+      "salesRep": "John Smith",
+      "client": "Innovation Co",
+      "product": "Software License",
+      "unitsSold": 65,
+      "revenue": 32500,
+      "target": 30000
+    },
+    {
+      "id": 26,
+      "date": "2024-02-09",
+      "salesRep": "Sarah Johnson",
+      "client": "TechCorp Inc",
+      "product": "Cloud Storage",
+      "unitsSold": 170,
+      "revenue": 25500,
+      "target": 24000
+    },
+    {
+      "id": 27,
+      "date": "2024-02-10",
+      "salesRep": "Mike Davis",
+      "client": "Global Solutions",
+      "product": "API Access",
+      "unitsSold": 420,
+      "revenue": 21000,
+      "target": 22000
+    },
+    {
+      "id": 28,
+      "date": "2024-02-11",
+      "salesRep": "Emily Brown",
+      "client": "StartupXYZ",
+      "product": "Software License",
+      "unitsSold": 85,
+      "revenue": 42500,
+      "target": 40000
+    },
+    {
+      "id": 29,
+      "date": "2024-02-12",
+      "salesRep": "David Wilson",
+      "client": "Enterprise Ltd",
+      "product": "Cloud Storage",
+      "unitsSold": 220,
+      "revenue": 33000,
+      "target": 30000
+    },
+    {
+      "id": 30,
+      "date": "2024-02-13",
+      "salesRep": "Lisa Anderson",
+      "client": "Innovation Co",
+      "product": "API Access",
+      "unitsSold": 450,
+      "revenue": 22500,
+      "target": 24000
+    }
+  ]
+}
